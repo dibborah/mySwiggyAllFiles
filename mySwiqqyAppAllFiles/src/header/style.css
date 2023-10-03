@@ -29,6 +29,12 @@ button.btn2{
     color: white;
     background-color: black;
 }
+.btn3{
+    color: white;
+    background-color: #fc8019;
+    border-color: #fc8019;
+    margin: 10px;
+}
 
 @media screen and (max-width: 754px){
     .btn{
