@@ -9,6 +9,22 @@
 }
 
 .below__Section img{
-    width: 100%;
-    height: auto;
+    width: 258px;
+    height: 219px;
+    border-radius: 32px;
+
+}
+
+.desc1,.desc2{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.price{
+    text-align: -webkit-right;
+}
+
+.spinner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
